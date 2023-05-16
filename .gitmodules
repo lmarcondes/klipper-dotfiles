@@ -1,9 +1,9 @@
 [submodule "ender3-s1-config"]
 	path = ender3-s1-config
-	url = ssh://tower-local:/mnt/hdd1/projects/local-repos/3dprint/e3s1-data-klipper.git
+	url = ssh://git@github.com/lmarcondes/ender3s1-klipper-config
 [submodule "prusa-slicer-config"]
 	path = prusa-slicer-config
-	url = ssh://tower-local:/mnt/hdd1/projects/local-repos/3dprint/prusa-slicer-config.git
+	url = ssh://git@github.com/lmarcondes/prusa-slicer-configs
 [submodule "klipper-macros"]
 	path = klipper-macros
 	url = ssh://git@github.com/lmarcondes/klipper-macros
